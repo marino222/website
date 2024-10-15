@@ -275,6 +275,7 @@ DEPENDENCIES
   github-pages
   jekyll-data
   jekyll-include-cache
+  jekyll-remote-theme
 
 BUNDLED WITH
    2.5.20
