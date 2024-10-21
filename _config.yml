@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Marinos Website"
-title_separator          : "-"
+title                    : "SolidWorks: Tips and Tricks"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Marino"
-description              : "An amazing website."
+description              : "A website sharing practical SolidWorks tips, automation with VBA macros, and insights from my journey in engineering and web development."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Marino"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Mechanical engineering ⚙️ student and industry professional with a passion for SolidWorks, VBA automation, and exploring new technologies in software, IT, and AI."
   location         : "Switzerland"
-  email            :
+  email            : "marino@zwyssig.me"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -323,3 +323,11 @@ defaults:
       comments: true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

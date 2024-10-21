@@ -3,8 +3,6 @@ title: "About me"
 permalink: "/about/"
 ---
 
-# About me
-
 Hello! I'm Marino from Switzerland. I'm studying mechanical engineering, and I work a lot with SolidWorks. Over time, I've learned a lot about it and also started writing VBA macros to make working with SolidWorks easier.
 
 I created this website to share what I've learned. Whether you're new to SolidWorks or already familiar with it, I hope you'll find some useful tips here. I really enjoy solving problems and making things more efficient, and I want to help others do the same.
