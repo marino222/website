@@ -18,7 +18,7 @@ favicon                  : "/assets/images/favicon.png"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "SolidWorks: Tips and Tricks"
+title                    : "marinozwyssig.com"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Marino"
