@@ -1,4 +1,0 @@
----
-title: "SolidWorks"
-permalink: "/solidworks/"
----
